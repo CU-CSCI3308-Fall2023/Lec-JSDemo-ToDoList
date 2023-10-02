@@ -1,7 +1,5 @@
 let tasks = [];
 
-console.log(localStorage.getItem("taskList"));
-
 const list = document.querySelector("ul");
 
 function addItem(){
